@@ -64,7 +64,7 @@ MonoBehaviour:
   armable: 1
   jettisonOnHPDied: 0
   reticleIndex: 2
-  allowedHardpoints: 2,3,8,9
+  allowedHardpoints: 2,9
   baseRadarCrossSection: 0.25
   matchLiveries: []
   wasPurchased: 0
